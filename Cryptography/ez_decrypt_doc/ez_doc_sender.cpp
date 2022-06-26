@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 /*CA sender*/
 #include "../header/Crypt.h"
 #include "../header/Crypt_doc.h"
