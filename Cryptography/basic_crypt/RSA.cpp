@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 /*RSA basic implementation*/
 /*Need to achieve with NTL lib, http://www.shoup.net/ntl */
 #include "../header/Crypt.h"
