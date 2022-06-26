@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 #include <iostream>
 #include <string>
 
