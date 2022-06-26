@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 /*AES in CBC*/
 #include "../header/Crypt.h"
 #include "../header/Crypt_AES.h"
