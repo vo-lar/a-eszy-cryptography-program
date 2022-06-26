@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 /*a simple Cryptography Certificate*/
 #include "../header/Crypt.h"
 #include "../header/Crypt_doc.h"
