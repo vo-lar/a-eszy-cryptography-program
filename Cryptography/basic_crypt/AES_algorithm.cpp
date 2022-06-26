@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 /*AES algorithm*/
 /*len(key) = 128*/
 
