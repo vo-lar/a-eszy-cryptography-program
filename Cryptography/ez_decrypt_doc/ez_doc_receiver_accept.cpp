@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 /*CA sender*/
 
 #include <fstream>
@@ -307,7 +306,7 @@ void _CA_receiver_2nd()
 		cout << correct_SHA_m << endl;
 	}
 	if (plaintext == correct_SHA_m) {
-		cout << "¡Ì" << endl;
+		cout << "Â¡ÃŒ" << endl;
 		cout << "Message confirmation from Sender" << endl;
 	}
 	else {
