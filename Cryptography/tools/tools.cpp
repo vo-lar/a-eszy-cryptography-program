@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 /*tools*/
 #include "../header/Crypt.h"
 #include <iostream>
