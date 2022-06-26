@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 /*a simple Cryptography Certificate*/
 #include "../header/Crypt.h"
 #include "../header/Crypt_RSA.h"
@@ -256,7 +255,7 @@ void _EZ_CA(string doc)
 			ss << b;
 			tmp += '$' + ss.str();
 			if (ID_read == tmp) {
-				cout << "¡Ì" << endl;
+				cout << "Â¡ÃŒ" << endl;
 				cout << "The CA is accepted" << endl;
 				continue;
 			}
