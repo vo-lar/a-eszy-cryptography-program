@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 /*RSA_PKCS implementation*/
 /*Need to achieve with NTL lib, http://www.shoup.net/ntl */
 #include "../header/Crypt.h"
@@ -251,7 +250,7 @@ void _RSA_PKCS()
 			//cout << plaintext << endl;
 			if (hash == ez_sha_1(plaintext.substr(0,plaintext.length()-1))) {
 				//space is the final cahracter
-				cout << "¡Ì" << endl;
+				cout << "Â¡ÃŒ" << endl;
 				cout << "accepted" << endl;
 				cout << "The plaintext is : " << plaintext << endl;
 				continue;
