@@ -1,4 +1,3 @@
-/*2053046 ÕÅè÷¿µ IS*/
 /*SHA-1*/
 #include "../header/Crypt.h"
 #include <iostream>
