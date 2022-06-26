@@ -1,5 +1,4 @@
 #pragma once
-/*2053046 ÕÅè÷¿µ IS*/
 
 void read_file(uint32_t& i, string msg, const char signal[], string& ret);
 
