@@ -1,5 +1,4 @@
 #pragma once
-/* 2053046 ÕÅè÷¿µ IS*/
 #include <iostream>
 #include <string>
 #include <iomanip>
